@@ -1,0 +1,9 @@
+c:\users\smanser\Source\Repos\WebApplication1\Businesstest\bin\Debug\netstandard2.0\Businesstest.deps.json
+c:\users\smanser\Source\Repos\WebApplication1\Businesstest\bin\Debug\netstandard2.0\Businesstest.dll
+c:\users\smanser\Source\Repos\WebApplication1\Businesstest\bin\Debug\netstandard2.0\Businesstest.pdb
+c:\users\smanser\Source\Repos\WebApplication1\Businesstest\obj\Debug\netstandard2.0\Businesstest.csprojResolveAssemblyReference.cache
+c:\users\smanser\Source\Repos\WebApplication1\Businesstest\obj\Debug\netstandard2.0\Businesstest.csproj.CoreCompileInputs.cache
+c:\users\smanser\Source\Repos\WebApplication1\Businesstest\obj\Debug\netstandard2.0\Businesstest.AssemblyInfoInputs.cache
+c:\users\smanser\Source\Repos\WebApplication1\Businesstest\obj\Debug\netstandard2.0\Businesstest.AssemblyInfo.cs
+c:\users\smanser\Source\Repos\WebApplication1\Businesstest\obj\Debug\netstandard2.0\Businesstest.dll
+c:\users\smanser\Source\Repos\WebApplication1\Businesstest\obj\Debug\netstandard2.0\Businesstest.pdb
